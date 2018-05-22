@@ -1,0 +1,1 @@
+# smart_temp_06
